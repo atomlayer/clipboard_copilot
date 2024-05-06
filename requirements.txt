@@ -1,0 +1,5 @@
+numpy==1.26.4
+pyperclip==1.8.2
+PyAutoGUI==0.9.54
+openai==1.25.1
+git+https://github.com/atomlayer/dict_list_autosave.git@master
